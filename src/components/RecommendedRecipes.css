@@ -1,0 +1,14 @@
+.container-recomendation-card {
+  display: flex;
+  overflow-x: auto;
+}
+
+.recomendation-card {
+  height: 6rem;
+  margin: 2rem 2.5rem;
+  width: 6rem;
+}
+
+.recomendation-card img {
+  width: 100%;
+}

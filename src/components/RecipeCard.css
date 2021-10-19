@@ -1,0 +1,31 @@
+.recipe-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 360;
+}
+
+.recipeCard {
+  height: 6rem;
+  margin: 2rem;
+  width: 6rem;
+}
+
+.recipeCard img {
+  width: 100%;
+}
+
+.scratched {
+  text-decoration: line-through;
+}
+
+.displayNone {
+  display: none;
+}
+
+.displayInBlock {
+  display: block;
+}
+
+.displayButtonFavorite {
+  display: inline-block;
+}
